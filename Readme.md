@@ -1,3 +1,3 @@
 # helloWeather
 
-![Alt text](screenshots/ss1.jpeg?raw=true "Title")
+![Alt text](Screenshots/ss1.jpeg?raw=true "Title")
